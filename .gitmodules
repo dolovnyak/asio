@@ -1,0 +1,3 @@
+[submodule "michael-scott-queue"]
+	path = nb_asio/detail/michael-scott-queue
+	url = git@github.com:dolovnyak/michael-scott-queue.git
