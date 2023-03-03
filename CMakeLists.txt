@@ -11,7 +11,7 @@ set(CMAKE_CXX_STANDARD 17)
 # example target
 set(EXAMPLE ${PROJECT_NAME}-example)
 add_executable(${EXAMPLE}
-        examples/multi_thread.cpp
+        examples/single_thread.cpp
         )
 
 target_include_directories(${EXAMPLE} PUBLIC
